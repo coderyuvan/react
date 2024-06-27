@@ -1,0 +1,11 @@
+#1 ek haeder m 3 4 options display kraane ho and conidtion ho ki agr login h to we will show some button  to
+use navigate hook ka use kro navitem ka array bnaao usme name,slug ,active daalo and check
+fir us nav item p map lgado usme event fire krkr check if that is true then do some else do some
+
+#2 saare hooks  function call k ander aate h always
+#3 link   anchor ka kaarm to="/" jo likhoge vha pooncha dega
+#4 store m login logout actions h not reducers reducers alg h 
+
+ debug
+ 1. index.js m aadhe compnenets import hi nhi the
+ 
